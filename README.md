@@ -1,0 +1,2 @@
+# Annoying-Math-Game
+Annoying Math Game is a short interactive game in which the player would simply have to answer as many questions as they can with the constant distractions within the game, such as numbers being said out loud and constant flashing colours. It is intended to emphasise how people are terrible multitaskers and are not able to concentrate when there is a lot going on and don’t work well under pressure.
