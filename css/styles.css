@@ -1,0 +1,78 @@
+.math-body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #fff;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.content {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.math-body h1 {
+    text-align: center;
+}
+
+.math-body p {
+    color: #fff;
+}
+
+#timer {
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    color: #fff;
+}
+
+
+#question {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-weight: 900;
+    font-size: 72px;
+    color: #fff;
+}
+
+.math-btn {
+    display: block;
+    margin: 20px auto;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: rgba(255, 255, 255, 0.4);
+    color: #ffffff;
+    border-radius: 12px;
+    outline: none;
+    border: none;
+    padding: 10px 40px;
+}
+
+.math-btn:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+#play-again {
+    display: none;
+}
+
+#math-input {
+    display: none;
+    margin: 20px auto;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: #fff;
+    color: #000;
+    border-radius: 12px;
+    outline: none;
+    border: none;
+    padding: 10px 20px;
+}
+
+#answer-question {
+    display: none;
+}
